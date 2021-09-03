@@ -1,7 +1,8 @@
-print("Hello world!");
+print("Hello world!")
 
 
 
-text = "Hello world 2!";
-print(text);
-print(text + " some more text");
+text = "Hello world 2!"
+print(text)
+print(text + " some more text")
+
